@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lixqa
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning nothing
 - ✨ 32 Private repositories
 - 📫 How to reach me
     - https://lix.qa
