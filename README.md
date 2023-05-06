@@ -4,7 +4,7 @@
 - ✨ 32 Private repositories
 - 📫 How to reach me
     - https://lix.qa
-    - Discord: Lixqa#8963
+    - Discord: Lixqa#2280
     - Discord Server: https://lix.qa/_dc
 
 <!---
